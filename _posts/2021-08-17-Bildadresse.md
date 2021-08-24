@@ -19,7 +19,7 @@ Zuerst suchen Sie nach einem Bild das Sie kopieren und einfügen wollen, in mein
 
 ## Inhalt 3
 
-[![Katze](https://i.ytimg.com/an_webp/F99W8Q51lF8/mqdefault_6s.webp?du=3000&sqp=CPr37ogG&rs=AOn4CLBKLGqGAnqf4mBlx3emYKyjH8kjhQ)](https://www.youtube.com/watch?v=F99W8Q51lF8)
+[![Katze](https://img.youtube.com/vi/F99W8Q51lF8/default.jpg)](https://www.youtube.com/watch?v=F99W8Q51lF8)
 
 ## Reflektion und Verifikation
 
