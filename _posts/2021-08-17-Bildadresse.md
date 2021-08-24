@@ -29,4 +29,4 @@ Das sammeln der Infos ging sehr schnell, man hätte aber das Thema vielleicht no
 
 | Ziel| Wie überprüft?|erreicht?| 
 | ---| ---|---| 
-| Bildadresse kopieren und einfügen   | Hab den Eintrag von meiner Grossmutter lesen lassen und geschaut ob sie nun versteht wie man Bildadressen kopiert und einfügt|  ☑ |
+| Bildadresse kopieren und einfügen | Hab den Eintrag von meiner Grossmutter lesen lassen und geschaut ob sie nun versteht wie man Bildadressen kopiert und einfügt|  ☑ |
