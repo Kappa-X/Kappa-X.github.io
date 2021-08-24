@@ -15,7 +15,7 @@ Zuerst suchen Sie nach einem Bild das Sie kopieren und einfügen wollen, in mein
 
 ## Inhalt 2
 
-![Bild](https://ibb.co/cLCmmvb)
+![Bild](https://imgur.com/a/Rlk1aaV.png)
 
 ## Inhalt 3
 
