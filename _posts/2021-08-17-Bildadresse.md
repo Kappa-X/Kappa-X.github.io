@@ -5,7 +5,7 @@ title: Random Number Guesser
 
 
 ## Aufgabenstellung
-Der Auftrag der BBBaden war einen eigenen funktionierenden Random Number Guesser zu programmieren
+Der Auftrag der BBBaden war einen eigenen funktionierenden Random Number Guesser zu programmieren.
 
 Meine Ziel war es von selber einen eigenen If-Loop zu programmieren nur mit Hilfe meines eigenen Wissen aus dem Unterricht und Infos von der Website [**Codecademy**](https://www.codecademy.com/learn/learn-c-sharp). Ebenfalls will ich auch so lernen wie man einen Absturz verhindert. Auch will ich das mein Programm für Falsche, Richtige und Fehlerhafte Eingabe jeweils eine andere Schriftfarbe hat
 
@@ -56,7 +56,7 @@ Meine Ziel war es von selber einen eigenen If-Loop zu programmieren nur mit Hilf
 
 ![Bild](https://snipboard.io/8jaWg9.jpg)
 
-## Video zum If-Loop und dem Try and Catch im Game
+## Video zu den verschieden Farben für die Eingaben
 
 [![thumbnail](https://snipboard.io/ekSvXD.jpg)](https://www.youtube.com/watch?v=G-qD7WWYFr0)
 
