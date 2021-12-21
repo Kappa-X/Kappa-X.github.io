@@ -41,7 +41,7 @@ Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entsch
 ```
 
 
-## Eingabe Felder Anzeiger bei Oberflächen Berechnung
+## Eingabe Felder bei Oberflächen Berechnung
 
 ![Bild](https://snipboard.io/TQmfKM.jpg)
 
