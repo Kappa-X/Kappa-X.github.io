@@ -53,7 +53,7 @@ Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entsch
 
 Wieder anfängliche Probleme mit Vorstellung des Programms, einige hatten andere Vorstellung des Programms als andere. Wir konnten uns schlussendlich auf eine Vorstellung einigen, welche aber schlussendlich während des Programmierens wieder über den Haufen geworfen werden musste, da sie zum Programmieren für uns noch zu schwierig und kompliziert war.
 
-**VBV:** Besseres einschätzen der eigenen Fähigkeiten und das Programm nicht zu schwierig gestalten.
+**VBV:** Am Anfang besseres einschätzen unserer Fähigkeiten und ebenfalls besseres einschätzen was in unserer zur Verfügung stehender Zeit möglich ist. Auch am Anfang lieber nur ein kleines Programm planen, welches man bei früherer Beendigung als gedacht, ausbauen kann.
  
  
  
