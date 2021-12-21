@@ -41,7 +41,7 @@ Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entsch
 ```
 
 
-## Eingabe Felder Anzeiger bei Oberflächen berechnung
+## Eingabe Felder Anzeiger bei Oberflächen Berechnung
 
 ![Bild](https://snipboard.io/TQmfKM.jpg)
 
@@ -51,7 +51,7 @@ Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entsch
 
 ## Reflektion und Verifikation
 
-Wieder anfängliche Probleme mit Vorstellung des Programms, einige hatten andere Vorstellung des Programms als andere. Wir konnten uns schlussendlich auf eine Vorstellung einigen, welche aber schlussendlich während des Programmieren wieder über den Haufen geworfen werden musste, da sie zum Programmieren für uns noch zu schwierig war und kompliziert war.
+Wieder anfängliche Probleme mit Vorstellung des Programms, einige hatten andere Vorstellung des Programms als andere. Wir konnten uns schlussendlich auf eine Vorstellung einigen, welche aber schlussendlich während des Programmierens wieder über den Haufen geworfen werden musste, da sie zum Programmieren für uns noch zu schwierig und kompliziert war.
 
 **VBV:** Besseres einschätzen der eigenen Fähigkeiten und das Programm nicht zu schwierig gestalten.
  
@@ -59,4 +59,4 @@ Wieder anfängliche Probleme mit Vorstellung des Programms, einige hatten andere
  
 | Ziel| Wie überprüft?|erreicht?| 
 | ---| ---|---| 
-|Bei Auswahl von Formeln erscheinen nur die nötigen Eingabe Felder| Programm gestartet und von dort die Dreieck berechnung ausgewählt und dann die Eingabe Felder bei Scope und Surface überprüft (müssten unterschiedlich sein)| ☑  |
+|Bei Auswahl von Formeln erscheinen nur die nötigen Eingabe Felder| Programm gestartet und von dort die Dreieck Berechnung ausgewählt und dann die Eingabe Felder bei Scope und Surface überprüft (müssten unterschiedlich sein) | ☑  |
