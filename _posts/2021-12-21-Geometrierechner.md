@@ -1,7 +1,7 @@
 # Gruppenarbeit LA 1400
 
 ## Aufgabenstellung
-Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entscheiden, welchen wir erledigen wollten. Unsere Gruppe entschied sich schlussendlich für den Auftrag mit dem Geometrierechner.
+Bei diesem Auftrag konnte sich unsere Gruppe zwischen mehreren Aufträgen entscheiden, welchen wir erledigen wollten. Unsere Gruppe entschied sich schlussendlich für den Auftrag mit dem Geometrierechner, welchen wir mit Windows Forms programmierten.
 
 ##### Mein Ziel:
 - Bei Auswahl von Formeln erscheinen nur die nötigen Eingabe Felder
