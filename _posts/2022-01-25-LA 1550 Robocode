@@ -1,0 +1,40 @@
+# LA 1550 Robocode
+
+## Aufgabenstellung
+Bei diesem Auftrag mussten wir einen Roboter für Robocode in Java programmieren und dazu uns eine Startegie überlegen, wie der Roboter vorgehen sollte.
+
+##### Mein Ziel:
+- Ziel des Portfolios ist dem Leser, die Stratetgie des Roboters verständlich zu erklären
+
+## Normales Bewegungsmuster ohne Störung
+
+```
+           	while (true) {
+			setTurnRight(10000);
+			ahead(100000);
+			setTurnLeft(100000);
+		}
+```
+
+
+## Bewegungen des Roboter
+
+![Bild](https://media4.giphy.com/media/MptlV7ameDBBlqfBrN/giphy.gif?cid=790b7611374ae21e6c525fc145738bd5474b3dda0ee6815a&rid=giphy.gif&ct=g)
+
+## Erklärung des Codes
+
+Die Strategie meines Roboters (Tungstenheart) ist sich möglichst viel zu bewegen, um so gut wie es nur geht feindlichen Beschuss ausweichen zu können. Das tut er in dem er sich hauptsächlich in einem Kreis dreht und sich leicht immer mehr nach links zu beweget, um es dem feindlichen Roboter möglichst schwierig zu machen ihn zu treffen (dabei scannt er ständig die Umgebung nach anderem Roboter und schiesst auf diese, wenn sie gesichtet werden). Im Notfall einer Berührung mit einer Wand, bewegt sich der Roboter einige Pixel nach hinten und beginnt dann wieder mit dem normalen Bewegungsmuster. Diese Strategie hat leider den Nachteil, dass durch die ständige Bewegung die Zielgenauigkeit leidet.
+
+## Reflektion und Verifikation
+
+Am Anfang hatte ich durch die kleinen Unterschiede von C# und Java, ein paar kleine Start Schwierigkeiten, welche mich ein bisschen zur Weissglut gebracht hatten, bis ich diese verstanden hatte. Danach fing ich dann an mich mit den verschiedenen Codes auf der API-Seite zu befassen und diese langsam in meinen Roboter zu implementieren.  Mit diesem kleinen Roboter konnte ich dann in der ersten Runde des Turniers den dritten Platz ergattern, was dazu führte, dass ich nicht mehr grosse Anpassungen an meinem Roboter durchführte, was schlussendlich darin resultierte, dass meine Mitschüler ihre Roboter um einiges verbessert hatten und ich immer noch etwa auf dem Level der ersten Runde befand. Das ging, wie man sich denken konnte nicht gut aus für mich und ich konnte in der zweiten Runde des Turniers nur noch den 10 Platz von 27 ergattern. Deshalb musste ich in der Lektion vor dem letzten Turnier noch einige grössere Veränderung vornehmen, um vielleicht noch mit der Konkurrenz mit halten zu können. Auch wenn der ganze Entstehungsprozess meines Roboters nicht wirklich perfekt verlief, bin ich trotzdem stolz auf mein Endprodukt. 
+
+**VBV:** 
+Ich muss mir definitiv zu Herzen nehmen mich nicht auf meinen Lorbeeren zu fest auszuruhen und nicht mehr grosse Änderungen vorzunehmen, nur weil ich das Gefühl habe das mein Projekt schon genug gut ist. Weil wenn wir ehrlich sind, gibt es fast immer etwas was man abändern kann oder verbessern kann.
+
+ 
+ 
+ 
+| Ziel| Wie überprüft?|erreicht?| 
+| ---| ---|---| 
+|Ziel Leser soll die Strategie des Roboters verstehen können| Hab das Portfolio von einem Kollegen lassen und ihn nach der verständlichkeit der Strategie gefragt.| ☑  |
